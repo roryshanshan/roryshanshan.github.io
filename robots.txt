@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roryshanshan.github.io/sitemap.xml
